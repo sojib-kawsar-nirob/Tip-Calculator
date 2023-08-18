@@ -1,0 +1,29 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Itim', cursive;
+    background: #c7ecee;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+.title{
+    
+    width: 90%;
+    max-width: 600px;
+}
+.title h2{
+    background-color: #3c7c7c;
+    margin: 150px 0 10px 0;
+    padding: 10px 0;
+    text-align: center;
+    color: #c7ecee;
+    border-radius: 25px;
+}
